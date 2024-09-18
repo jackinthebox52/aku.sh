@@ -1,0 +1,7 @@
+*.tar.gz
+pkg/
+src/
+.akuconf
+checksums.sh
+updatesrc.sh
+.akuhist

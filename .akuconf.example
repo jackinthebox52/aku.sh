@@ -1,0 +1,8 @@
+{
+    "ORG_ID": "ORGANIZATION_UUID_HERE",
+    "PROJECTS": {
+      "ProjectA": "PROJECT_UUID_HERE",
+      "ProjectB": "SECOND_PROJECT_UUID_HERE"
+    },
+    "SESSION_KEY": "sk-ant-sid-ANTHROPIC-SESSION_KEY_HERE"
+  }

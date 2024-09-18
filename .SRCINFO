@@ -1,0 +1,14 @@
+pkgbase = anthropic-knowledge-utility
+	pkgdesc = A bash utility for uploading documents to Anthropic/Claude's 'Project Knowledge'
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/jackinthebox52/aku.sh
+	arch = any
+	license = GPL3
+	depends = bash
+	depends = curl
+	depends = jq
+	source = anthropic-knowledge-utility-1.0.0.tar.gz::https://github.com/jackinthebox52/aku.sh/archive/v1.0.0.tar.gz
+	sha256sums = c613c507e7bd2797681605febb3869dfe43bf282c8fcd722c031e5dba6d48ba5
+
+pkgname = anthropic-knowledge-utility
